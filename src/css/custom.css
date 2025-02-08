@@ -149,7 +149,7 @@ header p {
         background-image: url("../imagens/backgorund_igordesigner.jpg");
         background-position: center right;
         justify-content: flex-end;
-        padding-bottom: 30px;
+        padding-bottom: 20px;
     }
 
     #subtitle {
@@ -162,8 +162,9 @@ header p {
 @media (max-width: 600px) {
     header {
         background-image: url("../imagens/background_igordesigner600px.jpg");
-        background-position: center top;
-        padding-bottom: 40px;
+        background-position: center bottom;
+        background-position-y: -40px; /* Move para cima */
+        padding-bottom: 20px;
     }
 
     #subtitle {
