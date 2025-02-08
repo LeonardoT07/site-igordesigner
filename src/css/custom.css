@@ -163,7 +163,6 @@ header p {
     header {
         background-image: url("../imagens/background_igordesigner600px.jpg");
         background-position: center bottom;
-        background-position-y: -40px; /* Move para cima */
         padding-bottom: 20px;
     }
 
