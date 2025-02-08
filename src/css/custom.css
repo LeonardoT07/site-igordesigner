@@ -121,7 +121,7 @@ header {
     min-height: 100svh; 
     min-height: 100lvh;
     min-height: 100dvh;
-    background-image: url("../imagens/backgorund_igordesigner.jpg");
+    background-image: url("../imagens/background_igordesigner.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@ header p {
 
 @media (max-width: 992px) {
     header {
-        background-image: url("../imagens/backgorund_igordesigner.jpg");
+        background-image: url("../imagens/background_igordesigner.jpg");
         background-position: center right;
         justify-content: flex-end;
         padding-bottom: 20px;
@@ -161,7 +161,7 @@ header p {
 
 @media (max-width: 600px) {
     header {
-        background-image: url("../imagens/background_igordesigner600px.jpg");
+        background-image: url("../imagens/background_igor600px.jpg");
         background-position: center bottom;
         padding-bottom: 20px;
     }
