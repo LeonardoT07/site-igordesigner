@@ -161,7 +161,7 @@ header p {
 
 @media (max-width: 600px) {
     header {
-        background-image: url("../imagens/background_igor600px.jpg");
+        background-image: url("../imagens/background_igor600.jpg");
         background-position: center bottom;
         padding-bottom: 20px;
     }
